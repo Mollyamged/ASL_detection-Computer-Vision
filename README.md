@@ -1,5 +1,5 @@
 # ASL_detection-Computer-Vision
-Convert American sign language to text
+Recognize American Sign Language (ASL) gestures in real-time and converting them  to text.
 ## 1. Install Required Libraries:
 Install the necessary libraries using pip
 pip install -q mediapipe
