@@ -23,6 +23,7 @@ pip install tensorflow
 -If you want to evaluate the performance of the trained model, you can run the evaluation code. This will provide you with metrics such as loss and accuracy on a test dataset.<br/>
 -If the accuracy is not satisfactory, you can modify the model, such as changing the layers or the activation function, or in the training code, in terms of changing the number of epochs, for example.
 ## 7. Exiting the Program:
-Press 'q' on your keyboard to exit the real-time gesture recognition window.<br/>
+Press 'q' on your keyboard to exit the real-time gesture recognition window. Note: make sure the q is small not capital<br/>
 Once you're done, close the Jupyter Notebook.<br/>
+<br/>
 By following these steps, you should be able to run the code successfully and perform real-time gesture recognition using your webcam. If you encounter any errors or need further assistance, feel free to ask for help!
