@@ -13,7 +13,8 @@ pip install tensorflow
 -When you run the data collection code, the webcam will activate but you would not be able to close it  until all the data is collected.<br/>
 -The number of images collected depends on the number of categories (words) defined in your code. In this code, there are 9 categories (words). Therefore, the data collection process will continue until it finishes collecting 30 images for each word, resulting in a total of 270 images.<br/>
 -Once the data collection process is complete, the camera feed window will close automatically, and the collected data will be saved in the specified directory structure for further processing and training of the gesture recognition model.<br/>
-## 4. Train the Model:
+## 4. Train the Model (Optional):
+You don't need to train the model it is already trained you can use it immediately
 -Run the code related to data collection and preprocessing to gather training data and split it into sequences.<br/>
 -Train the gesture recognition model by running the model training code.
 ## 5. Real-time Gesture Recognition:
